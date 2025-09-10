@@ -5,7 +5,7 @@ Android application to display network speed on your status bar. It helps in kee
 
 * * *
 Internet Speed is built with latest development tools and follows MVVM design pattern.
-- Written in Kotlin
+- Written in Kotlin.
 - Android Architecture Components (Viewmodels, Livedata, Room)
 - Material Design
 
